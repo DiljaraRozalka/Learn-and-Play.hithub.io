@@ -1,0 +1,69 @@
+body {
+  text-align: center;
+  margin:0;
+  padding:20px 0;
+  background-image: url("images/rolling-hill-vector.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+h1{
+  font-size: 7rem;
+  color: #ffcc29;
+  font-family:'Nunito', sans-serif;
+  text-shadow: 3px 0 #98ded9;
+  margin-top: 10px;
+}
+
+.trumpet {
+  background-image: url("images/trumpet.jpg");
+
+}
+.violin {
+  background-image: url("images/violin.jpg");
+
+}
+.piano {
+  background-image: url("images/piano.jpg");
+  background-size: 130px;
+
+}
+.guitar {
+  background-image: url("images/guitar.jpg");
+
+}
+.drums {
+  background-image: url("images/drums.jpg");
+
+}
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.music {
+  outline: none;
+  border-color:#e8ffff solid;
+  border-radius: 15px;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  color:rgba(0, 0, 0, 0);
+  background-size: 130px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.homepic {
+  margin-top: 50px;
+  background-position: center bottom;
+  width:40%;
+  height: 30%;
+  bottom:0;
+}
+
+p {
+  color:#51c2d5;
+}

@@ -1,0 +1,59 @@
+body {
+  text-align: center;
+  margin:0;
+  padding:20px 0;
+  background-image: url("images/clouds.jpg");
+  background-size: cover;
+}
+
+h1{
+  font-size: 8rem;
+  color: #ffcc29;
+  font-family:'Nunito', sans-serif;
+  text-shadow: 3px 0 #98ded9;
+  margin: 5px 20px 30px;
+}
+
+.a {
+  background-image: url("images/abc.jpg");
+  background-size: 160px;
+  background-position: center;
+}
+.f {
+  background-image: url("images/farm.jpg");
+  background-size: 150px;
+  background-position: center;
+}
+.m {
+  background-image: url("images/music.jpg");
+  background-size: 155px;
+  background-position: center;
+}
+
+.set {
+
+margin: 5% 20% 5%;
+}
+
+.image {
+  outline: none;
+  border-color:#e8ffff solid;
+  border-radius: 15px;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+
+}
+.homepic {
+  top:0;
+  background-position: center bottom;
+  width:70%;
+  height: 60%;
+  bottom:0;
+z-index:-100;
+}
+
+p {
+  color:#51c2d5;
+}

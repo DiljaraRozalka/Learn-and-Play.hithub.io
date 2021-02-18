@@ -1,0 +1,126 @@
+body {
+  text-align: center;
+  margin:0;
+  padding:20px 0;
+  background-image: url("images/sky.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1{
+  font-size: 7rem;
+  color: #ffcc29;
+  font-family:'Nunito', sans-serif;
+  text-shadow: 3px 0 #98ded9;
+  margin: 5px 20px 60px;
+}
+
+.a {
+  background-image: url("images/letter-a.jpg");
+}
+.b {
+  background-image: url("images/letter-b.jpg");
+}
+.c {
+  background-image: url("images/letter-c.jpg");
+}
+
+.d {
+  background-image: url("images/letter-d.jpg");
+}
+.e {
+  background-image: url("images/letter-e.jpg");
+}
+.f {
+  background-image: url("images/letter-f.jpg");
+}
+.g {
+  background-image: url("images/letter-g.jpg");
+}
+.h {
+  background-image: url("images/letter-h.jpg");
+}
+.i {
+  background-image: url("images/letter-i.jpg");
+}
+.j {
+  background-image: url("images/letter-j.jpg");
+}
+.k {
+  background-image: url("images/letter-k.jpg");
+}
+.l {
+  background-image: url("images/letter-l.jpg");
+}
+.m {
+  background-image: url("images/letter-m.jpg");
+}
+.n {
+  background-image: url("images/letter-n.jpg");
+}
+.o {
+  background-image: url("images/letter-o.jpg");
+}
+.p {
+  background-image: url("images/letter-p.jpg");
+}
+.q {
+  background-image: url("images/letter-q.jpg");
+}
+.r {
+  background-image: url("images/letter-r.jpg");
+}
+.s {
+  background-image: url("images/letter-s.jpg");
+}
+.t {
+  background-image: url("images/letter-t.jpg");
+}
+.u {
+  background-image: url("images/letter-u.jpg");
+}
+.v {
+  background-image: url("images/letter-v.jpg");
+}
+.w {
+  background-image: url("images/letter-w.jpg");
+}
+.x {
+  background-image: url("images/letter-x.jpg");
+}
+.y {
+  background-image: url("images/letter-y.jpg");
+}
+.z {
+  background-image: url("images/letter-z.jpg");
+
+}
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+.alphabet {
+  outline: none;
+  border-color:#e8ffff solid;
+  border-radius: 15px;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 5px 10px 5px;
+  color:rgba(0, 0, 0, 0);
+  background-size: 130px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.homepic {
+  margin-top: 50px;
+  background-position: center bottom;
+  width:40%;
+  height: 30%;
+  bottom:0;
+}
+
+p {
+  color:#e8ffff;
+}

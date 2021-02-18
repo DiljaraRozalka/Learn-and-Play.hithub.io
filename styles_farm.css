@@ -1,0 +1,78 @@
+body {
+  text-align: center;
+  margin:0;
+  padding:20px 0;
+  background-image: url("images/Landscape.jpg");
+  background-size: cover;
+
+
+}
+h1 {
+  font-size: 8rem;
+  color: #ffcc29;
+  font-family: 'Nunito', sans-serif;
+  text-shadow: 3px 0 #98ded9;
+  margin-top: 8px;
+  margin-bottom: 10px;
+}
+
+.cow {
+  background-image: url("images/cow.jpg") ;
+
+}
+.chicken {
+  background-image: url("images/chicken.jpg");
+
+}
+.horse {
+  background-image: url("images/horse.jpg");
+
+}
+.pig {
+  background-image: url("images/pig.jpg");
+}
+.cat {
+  background-image: url("images/cat.jpg");
+
+}
+.sheep {
+  background-image: url("images/sheep.jpg");
+
+}
+.dog {
+  background-image: url("images/dog.jpg");
+
+}
+.goat {
+  background-image: url("images/goat.jpg");
+
+}
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+.farm {
+  outline: none;
+  border-color:#e8ffff solid;
+  border-radius: 15px;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  color:rgba(0, 0, 0, 0);
+  background-size: 155px;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.homepic {
+  margin-top: 60px;
+  background-position: center bottom;
+  width:40%;
+  height: 30%;
+  bottom:0;
+z-index:-100;
+}
+
+p {
+  color:#fdffbc;
+}
